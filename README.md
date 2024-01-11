@@ -1,0 +1,1 @@
+Developed a real-time earthquake monitoring mobile application using Java within Android Studio. The app seamlessly integrated with the USGS API to fetch, process, and display live earthquake data, providing users with up-to-date seismic information in an easily accessible mobile interface.
